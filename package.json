@@ -1,0 +1,21 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "Hello World~~~",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimminseoung/Kotube.git"
+  },
+  "author": "Mr Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kimminseoung/Kotube/issues"
+  },
+  "homepage": "https://github.com/kimminseoung/Kotube#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
